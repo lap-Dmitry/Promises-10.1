@@ -1,0 +1,1 @@
+[![Build Status](https://app.travis-ci.com/lap-Dmitry/Promises-10.1.svg?branch=master)](https://app.travis-ci.com/lap-Dmitry/Promises-10.1)
